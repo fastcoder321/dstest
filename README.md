@@ -1,6 +1,12 @@
 
 # Test solution
 
+## How to clone the project
+
+1. open a shell. eg gitbash
+2. git clone https://github.com/fastcoder321/dstest.git
+3. cd dstest
+
 ## How to run via a cmd shell (eg gitbash):
 
 1. To start, run this command: ./gradlew bootRun
